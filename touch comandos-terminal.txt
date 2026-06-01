@@ -5,3 +5,7 @@ cd semana2
 touch preguntas-semana2.txt
 touch comandos-terminal.txt
 touch reflexion-semana2.txt
+git add .
+git commit "actividad semana 2" 
+git push
+git status
